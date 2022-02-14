@@ -8,6 +8,7 @@ $blue: #2D3E4F;
 
 body{
   font-family: 'Oswald Regular', serif;
+  overflow-x: hidden;
   &.active{
     overflow: hidden;
   }
