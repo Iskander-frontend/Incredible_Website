@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Oswald Regular';
+    src: url('../fonts/Oswald/Oswald-Regular.eot');
+    src: url('../fonts/Oswald/Oswald-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Oswald/Oswald-Regular.woff') format('woff'),
+    url('../fonts/Oswald/Oswald-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Droid Sans';
+    src: url('../fonts/DroidSans/DroidSans.eot');
+    src: local('Droid Sans'), local('DroidSans'),
+    url('../fonts/DroidSans/DroidSans.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/DroidSans/DroidSans.woff') format('woff'),
+    url('../fonts/DroidSans/DroidSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
